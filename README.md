@@ -1,3 +1,9 @@
 # ggl22.github.io
 # Mods
-/qt
+8bitryan 
+camellia
+fnf-soft
+impostor-v3
+qt
+slenderman
+sonic-exe
