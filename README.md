@@ -1,5 +1,5 @@
 # FNF Mods
-# Forked From [ggl22.github.io](https://ggl22.github.io)
+# Forked From [ggl22.github.io](https://github.com/ggl22/ggl22.github.io)
 ###
 ### [Vs 8-bit Ryan](https://twastinfg.github.io/FNF-Online-23/8bitryan) 
 ### [Vs Camellia](https://twastinfg.github.io/FNf-Online-23/camellia)
